@@ -1,5 +1,5 @@
-## Eae! Eu sou o Douglas
-### Dev Full Stack
+## Eae! Eu sou o Alex
+### Dev FrontEnd
 <div>
   <img align="right" alt="ghost-default" height="200" width="200" src="https://i.imgur.com/kZ4eRc6.gif">
 </div>  
