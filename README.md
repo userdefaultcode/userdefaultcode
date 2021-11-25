@@ -1,7 +1,7 @@
 ## Eae! Eu sou o Douglas
 ### Dev Full Stack
 <div>
-  <img align="right" alt="ghost-default" height="150" width="150" src="https://i.imgur.com/kZ4eRc6.gif">
+  <img align="right" alt="ghost-default" height="200" width="200" src="https://i.imgur.com/kZ4eRc6.gif">
 </div>  
  <div>
   <a href="https://github.com/userdefaultcode">
